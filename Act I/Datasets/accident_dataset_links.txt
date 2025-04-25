@@ -1,4 +1,4 @@
-Accident Detection Dataset Links:
+-Accident Detection Dataset Links:
 
 1. Our Initial Dataset: [Accident Detection]
    Link: https://www.kaggle.com/datasets/nardengerges/accident-detection
@@ -6,6 +6,10 @@ Accident Detection Dataset Links:
 
 2. Used Dataset(Main Focus): [accident-no-accident-detection]
    Link: https://www.kaggle.com/datasets/nardengerges/accident-no-accident-detection
+   License: Free for research and educational purposes.
+
+-Accident Severity Dataset Links:
+   Link: https://drive.google.com/drive/folders/1ns9gbsfnCbamWPdevYSqLzkZqiBbp86k?usp=drive_link
    License: Free for research and educational purposes.
 
 Don't forget to upvote if you find it really useful!
